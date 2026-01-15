@@ -28,6 +28,8 @@ Social Presence
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit&logoColor=white).![Time Series](https://img.shields.io/badge/Time--Series-Analysis-yellow?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-brightgreen?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data-Visualization-purple?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 
