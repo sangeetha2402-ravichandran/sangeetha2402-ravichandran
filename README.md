@@ -3,7 +3,7 @@
 Senior Software Engineer @ BNY Technology India Pvt Ltd
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                    
-- 🌱 I’m a Full Stack Engineer/Developer and Learning DataScience.
+- 🌱 I’m a Senior Software Developer and Learning DataScience.
 - Engineer at <a href="https://www.bnymellon.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/2c4d4224-8fff-4636-8927-1f14dbf82ad1.png" height="30" alt="BNY Mellon" />
 </a>  Previously worked with <a href="https://www.cognizant.com/" target="_blank" rel="noopener noreferrer">
