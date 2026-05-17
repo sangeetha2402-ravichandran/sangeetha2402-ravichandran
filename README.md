@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Sangeetha Ravichandran
 
-Full Stack Engineer @ BNY Technology India Pvt Ltd
+Senior Software Engineer @ BNY Technology India Pvt Ltd
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
                                    
 - 🌱 I’m a Full Stack Engineer/Developer and Learning DataScience.
