@@ -8,9 +8,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0066B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-ravichandran-ba3374374)
 [![GitHub](https://img.shields.io/badge/GITHUB-Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangeetha2402-ravichandran?tab=repositories)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 [![Auckland](https://img.shields.io/badge/BASED_IN-Auckland_NZ-0C756F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/sangeetha2402-ravichandran)
 
-**JAVA** · **SPRING BOOT** · **KAFKA** · **IBM MQ** · **AZURE** · **DYNAMICS 365** · **AI**
+**JAVA** · **SPRING BOOT** · **KAFKA** · **IBM MQ** · **AWS** · **AZURE** · **DYNAMICS 365** · **AI**
 
 </div>
 
@@ -22,7 +23,7 @@
 
 I'm a **Senior Software Engineer** based in **Auckland, New Zealand**, with a background in **enterprise banking technology**, **backend development**, **full-stack engineering** and **complex system integration**.
 
-I build solutions using **Java**, **Spring Boot**, **REST APIs**, **Apache Kafka**, **IBM MQ**, **Azure**, **Dynamics 365**, **Microsoft Dataverse** and **Power Platform**.
+I build solutions using **Java**, **Spring Boot**, **REST APIs**, **Apache Kafka**, **IBM MQ**, **AWS**, **Azure**, **Dynamics 365**, **Microsoft Dataverse** and **Power Platform**.
 
 I care about **reliability, maintainability, security and clean engineering practices**, and I enjoy learning through real software projects.
 
@@ -30,7 +31,8 @@ I care about **reliability, maintainability, security and clean engineering prac
 
 - **Banking & payments:** Customer services, payment workflows, fraud screening, ledger integration and messaging with core banking systems.
 - **Event-driven backends:** Microservices, Kafka consumers, transactional outbox, Saga compensation, idempotency, retries and dead-letter queues.
-- **Dynamics 365 & Microsoft cloud:** Dataverse Custom APIs, C# plug-ins, PCF controls, Power Automate, Azure Functions, APIM and Entra ID.
+- **Cloud engineering (AWS & Azure):** AWS, EKS, Docker, Azure Functions, API Management, cloud deployment and CI/CD.
+- **Dynamics 365 & Power Platform:** Dataverse Custom APIs, C# plug-ins, PCF controls, Power Automate and Entra ID.
 - **AI & analytics:** RAG applications, vector search, Java AI integrations, data science, machine learning and dashboards.
 
 <br clear="right" />
