@@ -1,48 +1,75 @@
-## Hi there 👋 It's me Sangeetha Ravichandran
+<div align="center">
 
-Senior Software Engineer @ BNY Technology India Pvt Ltd
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-                                   
-- 🌱 I’m a Senior Software Developer and Learning DataScience.
-- Engineer at <a href="https://www.bnymellon.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/2c4d4224-8fff-4636-8927-1f14dbf82ad1.png" height="30" alt="BNY Mellon" />
-</a>  Previously worked with <a href="https://www.cognizant.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/d726a82c-27d8-488c-9292-7e3909a30a17.png" height="40" alt="Cognizant" />
-</a>
+# 👋 Hi, I'm Sangeetha Ravichandran
 
-Social Presence
-<br />
-<a href="https://www.linkedin.com/in/sangeetha-ravichandran-ba3374374" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+### Senior Software Engineer | Java • Spring Boot • Cloud & Integration
 
+**Building resilient banking platforms, scalable services and practical AI applications.**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%2318171A.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Artifactory](https://img.shields.io/badge/artifactory-2C8EBB.svg?style=for-the-badge&logo=jfrog&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800)![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4E9BCD?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit&logoColor=white).![Time Series](https://img.shields.io/badge/Time--Series-Analysis-yellow?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-brightgreen?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data-Visualization-purple?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github)](https://github.com/sangeetha2402-ravichandran?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sangeetha-ravichandran-ba3374374)
 
+</div>
 
+---
 
-### IDE Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+## ✨ About me
 
+I'm a software engineer based in **Auckland, New Zealand**, with **16+ years of experience** building and integrating enterprise applications.
 
-# 📊 GitHub Stats:
-![Sangeetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeetha2402-ravichandran&theme=dark&show_icons=true&hide=issues,contribs)  
+My interests lie at the intersection of **backend engineering, distributed systems, banking technology, Microsoft business applications and AI**.
 
-#### 📊 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeetha2402-ravichandran&layout=compact&theme=dark)  
+- 🏦 Building reliable payment, customer-service and integration platforms
+- ⚡ Exploring event-driven microservices, idempotency, retries and observability
+- ☁️ Working with Java, Spring Boot, Kafka, IBM MQ, Azure, Dynamics 365 and Power Platform
+- 🎓 Master of Information Technology (Data Science), New Zealand
 
-#### 📈 Activity Graph  
-[![Sangeetha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sangeetha2402-ravichandran&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🚀 Featured projects
 
+| Project | What you'll find |
+|:--|:--|
+| 🏦 **[Digital Banking Platform](https://github.com/sangeetha2402-ravichandran/Digital-Banking-Platform)** | Spring Boot microservices, Kafka, IBM MQ, ledger events, transactional outbox, Saga compensation and idempotency |
+| 💳 **[Banking Customer Service Platform](https://github.com/sangeetha2402-ravichandran/DynamicsBankCustomerServiceProject)** | Dynamics 365 Customer Service, Dataverse, C# plug-ins, Power Automate and banking workflows |
+| 🧩 **[PCF & Azure Integration](https://github.com/sangeetha2402-ravichandran/PCF-CustomerTransactionsControl)** | React/TypeScript PCF control, Dataverse Custom API and Azure integration |
+| 🤖 **[Spring Boot RAG + Ollama](https://github.com/sangeetha2402-ravichandran/SpringBoot-RAG-Ollama-PGVector)** | Retrieval-augmented generation with embeddings, PostgreSQL/pgvector and Ollama |
+| 🔁 **[Dynamics 365 ALM & CI/CD](https://github.com/sangeetha2402-ravichandran/Dynamics365-CustomerService-ALM)** | Enterprise solution management, plugins and deployment automation |
+| 🚌 **[NZ Transport Dashboard](https://github.com/sangeetha2402-ravichandran/NZ-Transport-Dashboard)** | Real-time communication with WebSocket and STOMP |
+
+## 🧰 Technologies I work with
+
+**Backend & messaging**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-087E8B?style=flat-square)
+
+**Microsoft & cloud**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat-square)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Web, data & DevOps**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 📈 GitHub activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeetha2402-ravichandran&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeetha2402-ravichandran&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+**Good engineering means building systems people can depend on.**
+
+</div>
