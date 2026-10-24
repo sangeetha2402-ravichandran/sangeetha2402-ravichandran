@@ -133,7 +133,7 @@ A **retrieval-augmented generation (RAG)** prototype using **document embeddings
 ## **🎓 Education**
 
 **Master of Information Technology in Data Science**  
-**Whitecliffe College, Auckland, New Zealand** · **NZ Level 9** · **Completed July 2026**
+**Whitecliffe College, Auckland, New Zealand** · **NZ Level 9** · **Completed with Merit, July 2026**
 
 **Master of Engineering in Multimedia Technology**  
 **College of Engineering, Anna University, India** · **GPA 8.2**
