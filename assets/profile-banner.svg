@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="370" viewBox="0 0 1400 370" role="img" aria-label="Sangeetha Ravichandran, Senior Software Engineer, Banking, Java, Cloud and Integration">
+ <defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0%" stop-color="#091327"/><stop offset="58%" stop-color="#152D50"/><stop offset="100%" stop-color="#073A44"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop offset="0%" stop-color="#3DD6C6"/><stop offset="100%" stop-color="#5E98FF"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#228AC2" stop-opacity=".35"/><stop offset="100%" stop-color="#228AC2" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#A3E5F0" opacity=".14"/></pattern>
+ </defs>
+ <rect width="1400" height="370" fill="url(#bg)"/>
+ <circle cx="1200" cy="90" r="300" fill="url(#glow)"/>
+ <rect width="1400" height="370" fill="url(#dots)"/>
+ <path d="M0 350 Q350 295 710 354 T1400 330" fill="none" stroke="#36BEBA" stroke-width="2" opacity=".23"/>
+ <path d="M0 364 Q350 305 710 366 T1400 342" fill="none" stroke="#4892ED" stroke-width="2" opacity=".22"/>
+ <rect x="61" y="48" rx="14" width="220" height="29" fill="#104B62" stroke="#3DD6C6" stroke-opacity=".7"/>
+ <text x="77" y="68" fill="#84FFDF" font-size="13" font-family="Arial,Helvetica,sans-serif" letter-spacing="1.4" font-weight="700">ENGINEERING PORTFOLIO</text>
+ <text x="60" y="153" fill="#FFFFFF" font-size="67" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="1">SANGEETHA</text>
+ <text x="60" y="222" fill="#FFFFFF" font-size="62" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="0.6">RAVICHANDRAN</text>
+ <rect x="61" y="243" width="500" height="4" rx="2" fill="url(#accent)"/>
+ <text x="61" y="283" fill="#BBD8EF" font-size="20" font-family="Arial,Helvetica,sans-serif">Senior Software Engineer  |  Auckland, NZ</text>
+ <text x="61" y="319" fill="#72E0D4" font-size="17" font-family="Arial,Helvetica,sans-serif" letter-spacing=".4">JAVA   •   CLOUD   •   EVENT-DRIVEN SYSTEMS   •   AI</text>
+ <g transform="translate(830 70)">
+  <rect width="508" height="250" rx="23" fill="#0A1B35" opacity=".87" stroke="#527FA4" stroke-width="1.4"/>
+  <text x="28" y="39" fill="#B8D3EC" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="1">SYSTEMS I LIKE TO BUILD</text>
+  <path d="M92 110 H210 M294 110 H410" fill="none" stroke="#6BCFE0" stroke-width="4" stroke-linecap="round" opacity=".68"/>
+  <path d="M92 168 H410" fill="none" stroke="#648FED" stroke-width="3" stroke-dasharray="6 7" opacity=".58"/>
+  <g font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="15" text-anchor="middle">
+   <rect x="25" y="82" width="128" height="55" rx="13" fill="#133A57" stroke="#3DD6C6"/>
+   <text x="89" y="116" fill="#E8FFFF">APIs</text>
+   <rect x="189" y="82" width="128" height="55" rx="13" fill="#15345E" stroke="#76A7F5"/>
+   <text x="253" y="116" fill="#F0F7FF">EVENTS</text>
+   <rect x="352" y="82" width="130" height="55" rx="13" fill="#1A4656" stroke="#3DD6C6"/>
+   <text x="417" y="116" fill="#E8FFFF">CLOUD</text>
+  </g>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#ADC4DD">
+   <text x="31" y="204">Banking &amp; Payments</text>
+   <text x="253" y="204">Integration</text>
+   <text x="392" y="204">Reliability</text>
+  </g>
+  <circle cx="30" cy="198" r="4" fill="#3DD6C6"/>
+  <circle cx="243" cy="198" r="4" fill="#76A7F5"/>
+  <circle cx="382" cy="198" r="4" fill="#3DD6C6"/>
+ </g>
+</svg>
