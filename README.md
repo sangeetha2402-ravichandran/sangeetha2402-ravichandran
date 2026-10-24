@@ -1,138 +1,184 @@
-![Sangeetha Ravichandran | Senior Software Engineer](assets/profile-banner.svg)
-
 <div align="center">
 
-### Senior Software Engineer · Enterprise Banking · Java & Cloud Integration
+![Sangeetha Ravichandran | Senior Software Engineer](assets/profile-banner.svg)
 
-**I design and build reliable backend services, enterprise integrations and practical technology solutions.**
+### **SENIOR SOFTWARE ENGINEER · BACKEND · CLOUD · ENTERPRISE INTEGRATION**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-ravichandran-ba3374374)
-[![Portfolio Projects](https://img.shields.io/badge/GitHub-Explore_Projects-172554?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangeetha2402-ravichandran?tab=repositories)
-[![Location](https://img.shields.io/badge/Based_in-Auckland%2C_NZ-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/sangeetha2402-ravichandran)
+**Building dependable banking platforms, event-driven services and intelligent software.**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0066B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-ravichandran-ba3374374)
+[![GitHub](https://img.shields.io/badge/GITHUB-Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangeetha2402-ravichandran?tab=repositories)
+[![Auckland](https://img.shields.io/badge/BASED_IN-Auckland_NZ-0C756F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/sangeetha2402-ravichandran)
+
+**JAVA** · **SPRING BOOT** · **KAFKA** · **IBM MQ** · **AZURE** · **DYNAMICS 365** · **AI**
 
 </div>
 
 ---
 
-## Hello, I'm Sangeetha 👋
+## **👋 Hello, I'm Sangeetha**
 
-<img src="assets/technology-profile.svg" alt="Technology-inspired software developer profile illustration" width="240" align="right" />
+<img src="assets/technology-profile.svg" alt="Technology-inspired illustration of a software developer" width="220" align="right" />
 
-I'm a **senior software engineer** developing and integrating enterprise systems, particularly in financial services. My work spans **Java and Spring Boot, distributed messaging, Microsoft Dynamics 365, Power Platform, Azure and full-stack engineering**.
+I'm a **Senior Software Engineer** based in **Auckland, New Zealand**, with a background in **enterprise banking technology**, **backend development**, **full-stack engineering** and **complex system integration**.
 
-I enjoy transforming complex business requirements into secure, maintainable software — from API design and integration to delivery, monitoring and ongoing improvement.
+I build solutions using **Java**, **Spring Boot**, **REST APIs**, **Apache Kafka**, **IBM MQ**, **Azure**, **Dynamics 365**, **Microsoft Dataverse** and **Power Platform**.
 
-### What I build
+I care about **reliability, maintainability, security and clean engineering practices**, and I enjoy learning through real software projects.
 
-- **Banking and payment platforms** — customer services, payments, fraud screening, ledger workflows and core-system integration.
-- **Reliable backend systems** — Spring Boot microservices, Kafka events, IBM MQ, transactional outbox, idempotency, Saga and retry/dead-letter handling.
-- **Dynamics 365 and Azure solutions** — Dataverse, C# plug-ins, PCF controls, Power Automate, Azure Functions, API Management and identity integration.
-- **AI and data applications** — RAG prototypes, Java/OpenAI integrations, machine-learning experiments and interactive analytics dashboards.
+### **What I build**
 
-## My tech stack
+- **Banking & payments:** Customer services, payment workflows, fraud screening, ledger integration and messaging with core banking systems.
+- **Event-driven backends:** Microservices, Kafka consumers, transactional outbox, Saga compensation, idempotency, retries and dead-letter queues.
+- **Dynamics 365 & Microsoft cloud:** Dataverse Custom APIs, C# plug-ins, PCF controls, Power Automate, Azure Functions, APIM and Entra ID.
+- **AI & analytics:** RAG applications, vector search, Java AI integrations, data science, machine learning and dashboards.
 
-| Area | Technologies |
-|:--|:--|
-| **Backend & APIs** | Java, Spring Boot, C#, REST, Microservices, JPA |
-| **Messaging & integration** | Apache Kafka, IBM MQ / JMS, Azure Service Bus, Azure Functions, Logic Apps |
-| **Microsoft ecosystem** | Dynamics 365 CE, Dataverse, Power Apps, Power Automate, PCF, Azure APIM, Entra ID |
-| **Frontend** | JavaScript, TypeScript, React, HTML, CSS |
-| **Cloud & DevOps** | Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps, GitLab CI/CD, Jenkins |
-| **Data & observability** | PostgreSQL, SQL, Python, Grafana, Splunk, Application Insights |
-| **AI & analytics** | Ollama, RAG, pgvector, scikit-learn, XGBoost, Power BI, Tableau, Streamlit |
+<br clear="right" />
 
 ---
 
-# Selected engineering projects
+## **⚡ My technology stack**
 
-Real code, documented architecture and practical examples. These are **personal portfolio and learning projects**, not employer production systems.
+<div align="center">
 
-### 🏦 01 / Digital Banking Payment Platform
+![Dark technology board showing engineering stack](assets/engineering-stack-dark.svg)
 
-**Java · Spring Boot · Kafka · IBM MQ · PostgreSQL · Docker**
+</div>
 
-An event-driven banking simulation covering payment initiation, fraud screening, account transfers, ledger posting and core-banking integration. Demonstrates **transactional outbox, Saga compensation, idempotency and retry/DLQ strategies**.
-
-**[Explore the project →](https://github.com/sangeetha2402-ravichandran/Digital-Banking-Platform)**
-
-### ☁️ 02 / Azure Banking API Integration
-
-**Spring Boot · Azure App Service · API Management · Entra ID · OAuth 2.0**
-
-Banking REST APIs deployed to Azure and exposed through APIM with JWT validation, identity-based access and application roles.
-
-**[Explore the project →](https://github.com/sangeetha2402-ravichandran/Dynamics-banking-integration-service)**
-
-### 💼 03 / Dynamics 365 Banking Customer Service
-
-**Dynamics 365 · Dataverse · C# · Power Automate · JavaScript**
-
-An integrated customer-service demonstration involving banking cases, queues, SLAs, transaction relationships, plug-ins, automation and a Canvas App.
-
-**[Explore the project →](https://github.com/sangeetha2402-ravichandran/DynamicsBankCustomerServiceProject)**
-
-### 🧩 04 / PCF Customer Transactions + Azure Functions
-
-**React · TypeScript · PCF · Dataverse Custom API · Azure Functions**
-
-A custom transaction-viewing control for Dynamics 365, with a Dataverse Custom API and an Azure integration component.
-
-**[PCF project →](https://github.com/sangeetha2402-ravichandran/PCF-CustomerTransactionsControl)** · **[Azure Functions →](https://github.com/sangeetha2402-ravichandran/Azure-Functions-Bank)**
-
-### 🔁 05 / Dynamics 365 Application Lifecycle Management
-
-**C# · Power Platform CLI · Azure DevOps · CI/CD**
-
-Plug-ins, solution packaging, environment-specific configuration and controlled deployment flows for Dynamics 365.
-
-**[Explore the project →](https://github.com/sangeetha2402-ravichandran/Dynamics365-CustomerService-ALM)**
-
-### 🤖 06 / Spring Boot RAG with Ollama
-
-**Java · Spring Boot · Ollama · PostgreSQL · pgvector**
-
-A document Q&A prototype using embeddings, vector similarity and an LLM to generate context-aware responses.
-
-**[Explore the project →](https://github.com/sangeetha2402-ravichandran/SpringBoot-RAG-Ollama-PGVector)**
+| **Area** | **Tools & technologies** |
+|:--|:--|
+| **Backend & API engineering** | **Java**, **Spring Boot**, **Spring Framework**, **REST APIs**, **Microservices**, **JPA/Hibernate**, **C#** |
+| **Messaging & reliability** | **Kafka**, **IBM MQ/JMS**, **Azure Service Bus**, **Saga**, **Transactional Outbox**, **Idempotency**, **Retry/DLQ** |
+| **Microsoft platform** | **Dynamics 365 Customer Service**, **Dataverse**, **Power Apps**, **Power Automate**, **PCF**, **C# Plug-ins**, **Custom APIs** |
+| **Cloud & security** | **Azure**, **AWS**, **Azure API Management**, **Entra ID**, **OAuth 2.0**, **JWT**, **Azure Functions**, **Key Vault** |
+| **Frontend development** | **JavaScript**, **TypeScript**, **React**, **HTML**, **CSS** |
+| **DevOps & monitoring** | **Docker**, **Kubernetes**, **GitHub Actions**, **Azure DevOps**, **GitLab CI/CD**, **Jenkins**, **Grafana**, **Splunk**, **SonarQube** |
+| **Data, AI & reporting** | **PostgreSQL**, **SQL**, **Python**, **Ollama**, **RAG**, **pgvector**, **scikit-learn**, **Power BI**, **Tableau**, **Streamlit** |
 
 ---
 
-## AI, machine learning & data projects
+## **🚀 Featured engineering projects**
 
-| Project | Focus |
+**Architecture-driven, hands-on portfolio projects demonstrating real integration patterns.** These are personal demonstrations, not employer production source code.
+
+### **01 · Digital Banking Payment Platform** 🏦
+
+**[VIEW PROJECT →](https://github.com/sangeetha2402-ravichandran/Digital-Banking-Platform)**
+
+**Stack:** **Java · Spring Boot · Kafka · IBM MQ · PostgreSQL · Docker**
+
+A digital banking simulation with **payment initiation, fraud screening, account transfers, ledger events and core-banking request/reply integration**. Demonstrates **transactional outbox**, **Saga compensation**, **consumer idempotency**, **retry mechanisms** and **dead-letter handling**.
+
+### **02 · Azure Banking API Integration** ☁️
+
+**[VIEW PROJECT →](https://github.com/sangeetha2402-ravichandran/Dynamics-banking-integration-service)**
+
+**Stack:** **Java · Spring Boot · Azure App Service · API Management · Entra ID**
+
+Banking APIs hosted in Azure with **API gateway protection**, **OAuth 2.0 client credentials**, **JWT validation** and **application role-based access**.
+
+### **03 · Dynamics 365 Banking Customer Service** 💼
+
+**[VIEW PROJECT →](https://github.com/sangeetha2402-ravichandran/DynamicsBankCustomerServiceProject)**
+
+**Stack:** **Dynamics 365 · Dataverse · C# · Power Automate · JavaScript**
+
+An integrated banking customer service platform demonstrating **cases, queues, SLAs, transaction relationships, custom plug-ins, automation** and a **Canvas App**.
+
+### **04 · PCF Customer Transactions + Azure Functions** 🧩
+
+**[PCF CONTROL →](https://github.com/sangeetha2402-ravichandran/PCF-CustomerTransactionsControl)** · **[AZURE FUNCTIONS →](https://github.com/sangeetha2402-ravichandran/Azure-Functions-Bank)**
+
+**Stack:** **React · TypeScript · PCF · Dataverse Custom APIs · Azure Functions**
+
+A custom **Power Apps Component Framework control** communicating through a **Dataverse Custom API**, with separate **Azure integration components**.
+
+### **05 · Dynamics 365 ALM & CI/CD** 🔁
+
+**[VIEW PROJECT →](https://github.com/sangeetha2402-ravichandran/Dynamics365-CustomerService-ALM)**
+
+**Stack:** **C# · Power Platform CLI · Azure DevOps · CI/CD**
+
+A practical example of **plug-in development, managed solution packaging, environment configuration** and **controlled deployment pipelines**.
+
+### **06 · Spring Boot RAG with Ollama** 🤖
+
+**[VIEW PROJECT →](https://github.com/sangeetha2402-ravichandran/SpringBoot-RAG-Ollama-PGVector)**
+
+**Stack:** **Java · Spring Boot · Ollama · PostgreSQL · pgvector**
+
+A **retrieval-augmented generation (RAG)** prototype using **document embeddings**, **vector similarity search** and **local LLM responses**.
+
+---
+
+## **📊 AI, machine learning & analytics projects**
+
+| **Project** | **What it demonstrates** |
 |:--|:--|
-| [Customer Churn Prediction](https://github.com/sangeetha2402-ravichandran/ChurnPrediction-RF-XGBoost-EBM) | Comparison of Random Forest, XGBoost and Explainable Boosting Machine |
-| [OpenAI with Java](https://github.com/sangeetha2402-ravichandran/OpenAIJava) | Using the official OpenAI Java SDK from a Maven application |
-| [Stock Market Analytics](https://github.com/sangeetha2402-ravichandran/StockMarketAnalytics-StreamLitDashboard) | Streamlit dashboard with prices, moving averages and correlations |
-| [IPL Cricket Data Analysis](https://github.com/sangeetha2402-ravichandran/Indian-Premier-League-IPL-Data-Analysis-Project) | Exploratory analysis of match, player and team trends |
-| [ESPN Cricket Power BI](https://github.com/sangeetha2402-ravichandran/PowerBI--ESPN-Cricket-Data-Analysis) | Cricket performance analysis and interactive reporting |
-| [NZ Transport Dashboard](https://github.com/sangeetha2402-ravichandran/NZ-Transport-Dashboard) | Real-time WebSocket and STOMP communication |
+| **[Customer Churn Prediction](https://github.com/sangeetha2402-ravichandran/ChurnPrediction-RF-XGBoost-EBM)** | **Random Forest, XGBoost and Explainable Boosting Machine** comparison |
+| **[OpenAI Java](https://github.com/sangeetha2402-ravichandran/OpenAIJava)** | **OpenAI Java SDK** integration with Maven |
+| **[Stock Market Analytics](https://github.com/sangeetha2402-ravichandran/StockMarketAnalytics-StreamLitDashboard)** | **Streamlit**, moving averages, returns and interactive charts |
+| **[IPL Data Analysis](https://github.com/sangeetha2402-ravichandran/Indian-Premier-League-IPL-Data-Analysis-Project)** | **Python**, exploratory cricket analytics and visualisation |
+| **[ESPN Cricket Power BI](https://github.com/sangeetha2402-ravichandran/PowerBI--ESPN-Cricket-Data-Analysis)** | **Power BI** data modelling and interactive reporting |
+| **[NZ Transport Dashboard](https://github.com/sangeetha2402-ravichandran/NZ-Transport-Dashboard)** | **Spring Boot**, **WebSocket** and **STOMP** |
 
-**[View all my repositories →](https://github.com/sangeetha2402-ravichandran?tab=repositories)**
+<div align="center">
 
-## Professional background
+### **[EXPLORE ALL MY GITHUB REPOSITORIES →](https://github.com/sangeetha2402-ravichandran?tab=repositories)**
 
-- **Enterprise engineering:** Backend development, full-stack delivery, technical integration and application support.
-- **Financial-services technology:** hands-on experience with business applications, enterprise APIs and operational support.
-- **Ways of working:** solution design, iterative delivery, CI/CD, debugging, monitoring and system reliability.
+</div>
 
-## Education & certifications
+---
 
-- 🎓 **Master of Information Technology (Data Science)** — New Zealand, Level 9.
-- 🎓 **Bachelor of Engineering, Computer Science** — R.M.D. Engineering College, India.
-- 🏅 **Microsoft PL-200** — Power Platform Functional Consultant.
+## **🎓 Education**
+
+**Master of Information Technology in Data Science**  
+**Whitecliffe College, Auckland, New Zealand** · **NZ Level 9** · **Completed July 2026**
+
+**Master of Engineering in Multimedia Technology**  
+**College of Engineering, Anna University, India** · **GPA 8.2**
+
+**Bachelor of Engineering in Computer Science**  
+**R.M.D. Engineering College, Anna University, India** · **GPA 8.2**
+
+---
+
+## **🏅 Professional certifications**
+
+<div align="center">
+
+![Dark certification board showing PL-200, Java, Oracle and Windows](assets/certifications-dark.svg)
+
+</div>
+
+- **Microsoft PL-200** — **Power Platform Functional Consultant**.
+- **Sun Certified Programmer for Java** — **Sun Microsystems**.
+- **Oracle Certified Associate** — **Oracle**.
+- **Certification for Windows** — **Windows technology certification**.
+
+---
+
+## **🏆 Professional recognition**
+
+Recognition received during engineering work at **Bank of New York Mellon Technology**:
+
+- **Incredible Awards** — **ALC Project** and **Production Support**.
+- **GEM Award** — **Direct Access Project**.
+- **Rain Maker Award** — **Account Updater NRP**.
+- **Client Commendation** — **Direct Access Project**.
+- **Recognition for resolving critical SonarQube blocker issues**.
 
 ---
 
 <div align="center">
 
-### Let's connect
+### **🤝 Let's connect**
 
-I enjoy conversations about **backend architecture, enterprise integrations, Dynamics 365, Azure and practical AI**.
+**Interested in Java engineering, banking systems, enterprise integration, Microsoft Dynamics 365, Azure and practical AI?**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangeetha_Ravichandran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-ravichandran-ba3374374)
-[![GitHub](https://img.shields.io/badge/GitHub-More_Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sangeetha2402-ravichandran?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0066B3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-ravichandran-ba3374374)
+[![Projects](https://img.shields.io/badge/GitHub-View_more_projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangeetha2402-ravichandran?tab=repositories)
 
-*Building software that is easier to understand, safer to change and dependable in production.*
+**BUILD CLEARLY · INTEGRATE SECURELY · DELIVER RELIABLY**
 
 </div>
