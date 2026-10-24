@@ -1,7 +1,14 @@
 ![Sangeetha Ravichandran - Senior Software Engineer](assets/profile-banner.svg)
 
 # Senior Software Engineer building enterprise banking, cloud and integration systems
-## Java microservices, event-driven architecture, Microsoft Dynamics 365 and practical AI — with working projects and code.
+## Java microservices, event-driven architecture, Dynamics 365, Azure & practical AI — projects with source code.
+
+[![Digital Banking](https://img.shields.io/badge/DIGITAL_BANKING-Java_&_Kafka-0C4A6E?style=for-the-badge)](https://github.com/sangeetha2402-ravichandran/Digital-Banking-Platform)
+[![Dynamics 365](https://img.shields.io/badge/DYNAMICS_365-Power_Platform-5B21B6?style=for-the-badge)](https://github.com/sangeetha2402-ravichandran/DynamicsBankCustomerServiceProject)
+[![Azure](https://img.shields.io/badge/AZURE-API_Integration-0369A1?style=for-the-badge)](https://github.com/sangeetha2402-ravichandran/Dynamics-banking-integration-service)
+[![AI and RAG](https://img.shields.io/badge/AI-RAG_&_Ollama-047857?style=for-the-badge)](https://github.com/sangeetha2402-ravichandran/SpringBoot-RAG-Ollama-PGVector)
+
+**Explore:** [Banking & Backend](#banking-and-backend-engineering) · [Dynamics 365 & Azure](#dynamics-365-power-platform-and-azure) · [AI & ML](#ai-and-machine-learning) · [Data Analytics](#data-analytics-and-visualization)
 
 I build backend services and integrations that connect complex enterprise systems. My experience spans banking technology, Java and Spring Boot, Microsoft Dynamics 365, Azure, APIs and distributed messaging. I enjoy taking a solution from design through development, integration, delivery and support.
 
