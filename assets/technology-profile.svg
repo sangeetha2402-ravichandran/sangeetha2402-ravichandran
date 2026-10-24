@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="440" viewBox="0 0 400 440" role="img" aria-label="Technology-inspired developer portrait illustration">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#08152b"/><stop offset="56%" stop-color="#122b4c"/><stop offset="100%" stop-color="#073a46"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#173c60"/><stop offset="100%" stop-color="#0d263f"/></linearGradient>
+ <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#ebb990"/><stop offset="100%" stop-color="#b67c62"/></linearGradient>
+ <linearGradient id="light" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#31d4c3"/><stop offset="100%" stop-color="#69a6ff"/></linearGradient>
+ <radialGradient id="halo"><stop offset="0%" stop-color="#39a7eb" stop-opacity=".3"/><stop offset="100%" stop-color="#39a7eb" stop-opacity="0"/></radialGradient>
+ <pattern id="mesh" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" stroke="#6bbdde" opacity=".07" fill="none"/></pattern>
+ <clipPath id="mask"><rect width="400" height="440" rx="30"/></clipPath>
+</defs>
+<g clip-path="url(#mask)">
+<rect width="400" height="440" fill="url(#bg)"/><rect width="400" height="440" fill="url(#mesh)"/>
+<circle cx="208" cy="181" r="185" fill="url(#halo)"/>
+<g fill="none" stroke="#3dd6c6" stroke-width="2" stroke-linecap="round" opacity=".45">
+<path d="M-5 125H75V89H109"/><path d="M-5 189H58V232H95"/><path d="M395 113H331V146H308"/>
+<path d="M395 236H350V273H320"/><path d="M395 315H330V344H296"/><path d="M-5 323H73V299H103"/>
+</g>
+<g fill="#52e5da">
+<circle cx="109" cy="89" r="5"/><circle cx="95" cy="232" r="4"/><circle cx="308" cy="146" r="5"/>
+<circle cx="320" cy="273" r="4"/><circle cx="296" cy="344" r="5"/><circle cx="103" cy="299" r="4"/>
+</g>
+<circle cx="200" cy="178" r="116" fill="#122f4d" stroke="#3fcbbf" stroke-width="3" opacity=".78"/>
+<!-- Person: distinctive illustrated coding professional, not a likeness of a real person -->
+<path d="M80 339Q88 281 145 267Q173 257 200 258Q234 254 261 267Q315 285 320 339Z" fill="#122441" stroke="#60a8e7" stroke-width="2"/>
+<path d="M149 278Q190 316 252 277L238 336H162Z" fill="#f3f7fd"/>
+<path d="M169 266L200 294L230 266L220 248H180Z" fill="url(#skin)"/>
+<path d="M150 159Q150 115 190 107Q245 105 253 157L250 214Q235 254 199 258Q163 248 152 214Z" fill="url(#skin)"/>
+<path d="M149 185Q141 150 153 122Q176 80 227 100Q259 110 260 152L249 182L246 155Q232 151 216 133Q185 151 154 154Z" fill="#171b2e"/>
+<path d="M149 184Q133 157 146 130Q157 108 174 102" fill="none" stroke="#1e2538" stroke-width="12" stroke-linecap="round"/>
+<path d="M154 161Q168 152 180 161M221 161Q234 151 245 163" stroke="#493b39" fill="none" stroke-width="3" opacity=".8"/>
+<circle cx="174" cy="178" r="3.2" fill="#2e2730"/><circle cx="227" cy="178" r="3.2" fill="#2e2730"/>
+<path d="M191 207Q200 213 208 207" stroke="#a36560" fill="none" stroke-width="2"/>
+<path d="M184 229Q201 239 217 229" fill="none" stroke="#8d4a4c" stroke-width="3" stroke-linecap="round"/>
+<path d="M137 177Q126 166 129 190Q132 206 151 204M255 178Q269 166 268 190Q265 208 250 204" fill="url(#skin)"/>
+<!-- Computer terminal -->
+<rect x="58" y="296" width="284" height="112" rx="13" fill="#061225" stroke="#62c3ef" stroke-width="3"/>
+<rect x="72" y="310" width="256" height="85" rx="6" fill="#0c2439"/>
+<g font-family="monospace" font-size="21" font-weight="700">
+<text x="94" y="347" fill="#4ee0c9">&lt;code&gt;</text>
+<text x="94" y="378" fill="#97b9ff">build(</text><text x="177" y="378" fill="#5adad2">future</text><text x="256" y="378" fill="#97b9ff">);</text>
+</g>
+<path d="M37 406H363L344 419H58Z" fill="#7095b3"/>
+<rect x="132" y="414" width="134" height="4" rx="2" fill="#253d56"/>
+<rect x="14" y="14" width="372" height="412" rx="24" fill="none" stroke="#56d6d2" stroke-width="2" opacity=".65"/>
+</g>
+</svg>
