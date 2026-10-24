@@ -16,7 +16,9 @@
 
 ## Hello, I'm Sangeetha 👋
 
-I'm a **senior software engineer with 16+ years of experience** developing and integrating enterprise systems, particularly in financial services. My work spans **Java and Spring Boot, distributed messaging, Microsoft Dynamics 365, Power Platform, Azure and full-stack engineering**.
+<img src="assets/technology-profile.svg" alt="Technology-inspired software developer profile illustration" width="240" align="right" />
+
+I'm a **senior software engineer** developing and integrating enterprise systems, particularly in financial services. My work spans **Java and Spring Boot, distributed messaging, Microsoft Dynamics 365, Power Platform, Azure and full-stack engineering**.
 
 I enjoy transforming complex business requirements into secure, maintainable software — from API design and integration to delivery, monitoring and ongoing improvement.
 
@@ -110,7 +112,7 @@ A document Q&A prototype using embeddings, vector similarity and an LLM to gener
 
 ## Professional background
 
-- **Enterprise engineering:** 16+ years spanning backend development, full-stack delivery and integration.
+- **Enterprise engineering:** Backend development, full-stack delivery, technical integration and application support.
 - **Financial-services technology:** hands-on experience with business applications, enterprise APIs and operational support.
 - **Ways of working:** solution design, iterative delivery, CI/CD, debugging, monitoring and system reliability.
 
@@ -119,7 +121,6 @@ A document Q&A prototype using embeddings, vector similarity and an LLM to gener
 - 🎓 **Master of Information Technology (Data Science)** — New Zealand, Level 9.
 - 🎓 **Bachelor of Engineering, Computer Science** — R.M.D. Engineering College, India.
 - 🏅 **Microsoft PL-200** — Power Platform Functional Consultant.
-- 🏅 **Microsoft PL-400** — Power Platform Developer.
 
 ---
 
